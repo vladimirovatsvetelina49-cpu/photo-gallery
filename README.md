@@ -4,7 +4,7 @@ A responsive photo gallery built with HTML & CSS using **Flexbox**.
 This project demonstrates flexible layouts and mobile-friendly design without frameworks.
 
 ## Live Demo
-(Will appear after Step 6) 👉 https://vladimirovatsvetelina49-cpu.github.io/photo-gallery/
+👉 https://vladimirovatsvetelina49-cpu.github.io/photo-gallery/
 
 ## What I Practiced
 - Semantic HTML structure
